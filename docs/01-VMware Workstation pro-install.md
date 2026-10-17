@@ -1,4 +1,4 @@
-# Lab 03: Downloading VMware Workstation Pro
+# Lab 01: Downloading VMware Workstation Pro
 
 ## Objective
 
