@@ -1,4 +1,4 @@
-Lab 01: Downloading VMware Workstation Pro 26H1 for Windows
+Lab 03: Downloading VMware Workstation Pro 26H1 for Windows
 Objective
 Obtain the VMware Workstation Pro installer for Windows from the official VMware/Broadcom download service. VMware Workstation Pro will be used to create and manage Windows Server 2022 and Windows 11 virtual machines for the Active Directory and Group Policy home lab.
 Lab Environment
